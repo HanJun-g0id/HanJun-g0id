@@ -22,12 +22,12 @@
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--JAVA-->
-  <img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <br/>
   
   ### Studying
   <!--C++-->
-  <img src="https://img.shields.io/badge/Cplusplus-#00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
@@ -37,25 +37,24 @@
   <!--React-->
   <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=#61DAFB"/>
   <!--Unity-->
-  <img src="https://img.shields.io/badge/Unity-#FFFFFF?style=flat-square&logo=unity&logoColor=gray"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=gray"/>
   
   
   ### I Used
   <!--Vscode-->
-  <img src="https://img.shields.io/badge/Naver-#03C75A?style=flat-square&logo=naver&logoColor=white"/>
-  <!--InteliJ-->
-  <img src="https://img.shields.io/badge/Kakao-#FFCD00?style=flat-square&logo=kakao&logoColor=white"/>
-  <!--Google-->
-  <img src="https://img.shields.io/badge/Google-#4285F4?style=flat-square&logo=google&logoColor=white&Color=white"/>
+  <img src="[https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <!--IntelliJ-->
+  <img src="https://img.shields.io/badge/Intellij%20IDEA-161A36?style=flat-square&logo=Intellij%20IDEA&logoColor=white"/>
+
   <br/>
   
   ### Bookcase
   <!--Next.tjs-->
-  <img src="https://img.shields.io/badge/Nextdotjs-#000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nextdotjs-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <!--Node.js-->
-  <img src="https://img.shields.io/badge/Nodedotjs-#5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodedotjs-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <!--MongoDB-->
-  <img src="https://img.shields.io/badge/Mongodb-#47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <br/>
 
   [![Solved.ac
