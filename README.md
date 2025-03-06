@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WELCOME%20TO%20MY%20HISTORY%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WELCOME%20%20%F0%9F%A4%97)
   
 </div>
 
@@ -27,7 +27,7 @@
   
   ### Studying
   <!--C++-->
-  <img src="https://img.shields.io/badge/cplusplus-#00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cplusplus-#00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
@@ -35,27 +35,27 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <!--React-->
-  <img src="https://img.shields.io/badge/react-20232a?style=flat-square&logo=react&logoColor=#61DAFB"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=#61DAFB"/>
   <!--Unity-->
-  <img src="https://img.shields.io/badge/unity-#FFFFFF?style=flat-square&logo=unity&logoColor=gray"/>
+  <img src="https://img.shields.io/badge/Unity-#FFFFFF?style=flat-square&logo=unity&logoColor=gray"/>
   
   
   ### I Want
   <!--NAVER-->
-  <img src="https://img.shields.io/badge/naver-#03C75A?style=flat-square&logo=naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Naver-#03C75A?style=flat-square&logo=naver&logoColor=white"/>
   <!--Kakao-->
-  <img src="https://img.shields.io/badge/kakao-#FFCD00?style=flat-square&logo=kakao&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kakao-#FFCD00?style=flat-square&logo=kakao&logoColor=white"/>
   <!--Google-->
-  <img src="https://img.shields.io/badge/google-#4285F4?style=flat-square&logo=google&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/Google-#4285F4?style=flat-square&logo=google&logoColor=white&Color=white"/>
   <br/>
   
   ### Bookcase
   <!--Next.tjs-->
-  <img src="https://img.shields.io/badge/nextdotjs-#000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nextdotjs-#000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <!--Node.js-->
-  <img src="https://img.shields.io/badge/nodedotjs-#5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodedotjs-#5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <!--MongoDB-->
-  <img src="https://img.shields.io/badge/mongodb-#47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongodb-#47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <br/>
 
   [![Solved.ac
