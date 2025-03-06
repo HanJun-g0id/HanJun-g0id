@@ -22,7 +22,7 @@
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--JAVA-->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
   <br/>
   
   ### Studying
@@ -40,10 +40,10 @@
   <img src="https://img.shields.io/badge/Unity-#FFFFFF?style=flat-square&logo=unity&logoColor=gray"/>
   
   
-  ### I Want
-  <!--NAVER-->
+  ### I Used
+  <!--Vscode-->
   <img src="https://img.shields.io/badge/Naver-#03C75A?style=flat-square&logo=naver&logoColor=white"/>
-  <!--Kakao-->
+  <!--InteliJ-->
   <img src="https://img.shields.io/badge/Kakao-#FFCD00?style=flat-square&logo=kakao&logoColor=white"/>
   <!--Google-->
   <img src="https://img.shields.io/badge/Google-#4285F4?style=flat-square&logo=google&logoColor=white&Color=white"/>
