@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=gray"/>
   
   
-  ### I Used
+  ### I Use
   <!--Vscode-->
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <!--IntelliJ-->
