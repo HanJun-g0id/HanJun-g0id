@@ -59,7 +59,7 @@
   <br/>
 
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={gkswns0429})](https://solved.ac/{gkswns0429})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkswns0429)](https://solved.ac/gkswns0429)
   
   <br/>
 
