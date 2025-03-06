@@ -56,9 +56,10 @@
   <!--MongoDB-->
   <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <br/>
+  <br/>
 
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{gkswns0429})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={gkswns0429})](https://solved.ac/{gkswns0429})
   
   <br/>
 
