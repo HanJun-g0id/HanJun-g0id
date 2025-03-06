@@ -42,7 +42,7 @@
   
   ### I Used
   <!--Vscode-->
-  <img src="[https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <!--IntelliJ-->
   <img src="https://img.shields.io/badge/Intellij%20IDEA-161A36?style=flat-square&logo=Intellij%20IDEA&logoColor=white"/>
 
