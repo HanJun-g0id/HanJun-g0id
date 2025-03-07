@@ -50,9 +50,9 @@
   
   ### Bookcase
   <!--Next.tjs-->
-  <img src="https://img.shields.io/badge/Nextdotjs-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <!--Node.js-->
-  <img src="https://img.shields.io/badge/Nodedotjs-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <!--MongoDB-->
   <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <br/>
