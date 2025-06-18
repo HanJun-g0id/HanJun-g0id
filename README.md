@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :information_desk_person: I am a Korean university student who dreams of becoming a developer :)<br/>
+  #### :information_desk_person: I am a Korean university student who dreams of becoming a developer <br/>
   #### :fire: My goal is to commit one code every day<br/>
   #### :mortar_board: Bachelor of Software, Sangmyung University(SMU)
   <br/>
