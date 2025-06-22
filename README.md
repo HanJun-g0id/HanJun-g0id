@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <br/>
   
-  ### Studying 📚
+  ### Studying
   <!--C++-->
   <img src="https://img.shields.io/badge/Cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <!--JavaScript-->
