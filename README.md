@@ -1,4 +1,4 @@
-<div>
+  <div>
   
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WELCOME%20%20🐳)
@@ -63,7 +63,7 @@
   
   <br/>
   
-  ## 🤔 Github Stats
+  ## 🤔 Github Stat
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanJun-g0id)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanJun-g0id)](https://github.com/anuraghazra/github-readme-stats)
